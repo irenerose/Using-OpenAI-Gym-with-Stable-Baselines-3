@@ -17,6 +17,6 @@ conda activate rl_env
 ```
 Run the python file(here:RL.py) as normal in the Annaconda prompt using :
 ```ruby
-python3 RL.py
+python RL.py
 ```
 It can also be run using the different applications available in Anaconda Navigator that aid in developing Python eg: Jupyter Notebook, Visual Studio, Spyder etc.

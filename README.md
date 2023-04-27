@@ -15,8 +15,8 @@ The first line of the yml file sets the new environment's name(here: rl_env). Ac
 ```ruby
 conda activate rl_env
 ```
-Run the python file as normal in the Annaconda prompt using :
+Run the python file(here:RL.py) as normal in the Annaconda prompt using :
 ```ruby
-python3 myfile.py
+python3 RL.py
 ```
 It can also be run using the different applications available in Anaconda Navigator that aid in developing Python eg: Jupyter Notebook, Visual Studio, Spyder etc.
